@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Luxury Branded Carriers",
+    "imageUrl": "../../../assets/bg-img/m6.jpg",
+    "price": 50
+  },
+  {
+    "id": "2",
+    "name": "Z luxury Box",
+    "imageUrl": "../../../assets/bg-img/m7.jpg",
+    "price": 70
+  },
+  {
+    "id": "3",
+    "name": "Mini Zuri Pouch",
+    "imageUrl": "../../../assets/bg-img/m8.jpg",
+    "price": 30
+  },
+  {
+    "id": "4",
+    "name": "Wine bag",
+    "imageUrl": "../../../assets/bg-img/wine bag.png",
+    "price": 30
+  },
+  {
+    "id": "5",
+    "name": "le Sac Parfait",
+    "imageUrl": "../../../assets/bg-img/The Perfect Stack.png",
+    "price": 30
+  },
+  {
+    "id": "6",
+    "name": "Corrugated Carriers",
+    "imageUrl": "../../../assets/bg-img/w (3).jpeg",
+    "price": 30
+  },
+  {
+    "id": "7",
+    "name": "Branded Gift Kit",
+    "imageUrl": "../../../assets/bg-img/mm4.jpg",
+    "price": 30
+  },
+  {
+    "id": "8",
+    "name": "Paper Pouch",
+    "imageUrl": "../../../assets/bg-img/paper p.jpg",
+    "price": 30
+  },
+  {
+    "id": "9",
+    "name": "Corrugated product packs",
+    "imageUrl": "../../../assets/bg-img/19 (1).jpg",
+    "price": 30
+  },
+  {
+    "id": "10",
+    "name": "Brand Packaging Kit",
+    "imageUrl": "../../../assets/bg-img/pink pouch.jpg",
+    "price": 30
+  },
+  {
+    "id": "11",
+    "name": "Louis Cup Carriers",
+    "imageUrl": "../../../assets/bg-img/cup carriers.jpg",
+    "price": 30
+  },
+  {
+    "id": "12",
+    "name": "Corrugated product packs",
+    "imageUrl": "../../../assets/bg-img/c1.jpg",
+    "price": 30
+  }
+]
